@@ -2,16 +2,16 @@
 
 A nft auction app made in flutter (static design only).
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+This app was made from the inspiration of a dribble design. 
+[Here is the link to that design:](https://dribbble.com/shots/17517765/attachments/12658028?mode=media)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In future if I get time I will improve this app and add more features, like: 
+* Make this dynamic, like selection of item in list (with state management or stateful builder).
+* Add animations
+* Add auth
+* Get lists dynamically
+* Add shopping and checkout
 # nft_shop_app_flutter
